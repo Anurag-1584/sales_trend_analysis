@@ -1,6 +1,6 @@
 #  Sales Trend Analysis Using Python
 
-Hello and welcome! 👋  
+Hello and welcome!   
 This project is all about analyzing sales data from a retail store to uncover trends, seasonal patterns, and useful business insights.  
 I used the **Superstore dataset** (available on Kaggle) to explore things like:
 
@@ -36,7 +36,7 @@ This project is a great example of how data storytelling + simple Python tools c
 
 ##  Tools & Libraries Used
 
-- **Python** 🐍
+- **Python** 
 - **Pandas** – for data wrangling
 - **Matplotlib & Seaborn** – for beautiful visualizations
 - **Datetime** – for working with time-based trends
@@ -70,10 +70,10 @@ This project is a great example of how data storytelling + simple Python tools c
 
 ## Key Takeaways
 
-- 🔼 **Sales usually spike between October and December**, probably due to holiday shopping.
-- 💡 **Technology** is the top-performing category in both sales and profit.
-- ⚠️ Some states like **Texas and Illinois** showed high sales but low profits — which could signal high operational costs or discounts.
-- 🧊 Certain sub-categories like **Tables** often led to losses.
+- **Sales usually spike between October and December**, probably due to holiday shopping.
+-  **Technology** is the top-performing category in both sales and profit.
+-  Some states like **Texas and Illinois** showed high sales but low profits — which could signal high operational costs or discounts.
+-  Certain sub-categories like **Tables** often led to losses.
 
 ---
 
